@@ -1,0 +1,8 @@
+n_estimators: 500
+max_depth: 11
+learning_rate: 0.05
+subsample: 0.9
+colsample_bytree: 0.7
+tree_method: hist
+missing: -999
+random_state: 2020
